@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+li{
+    font-size: 25px;
+    
+}
+li:hover{
+    color: red;
+    
+    transition: all 1s ease-out;
+    
+}
+a:hover{
+    color: red;
+   
+    
+
+}
+.social{
+    opacity: 0.1;
+
+
+}
+.social:hover{
+    opacity: 1;
+    transform: scale(1.2);
+    transition: all 1s ease-out;
+    
+}
+h1{
+    font-size: 30px;
+   
+    
+}
+p{
+    opacity: 0;
+    font-size: 30px;
+}
+p:hover{
+    opacity: 1;
+    transition: all 1s ease-out;
+    font-size: 25px;
+    color: brown;
+}
+h3{
+    color: white;
+}
+img:hover{
+  
+    transition: all 3s ease-out ;
+    opacity: 1;
+     height: 100px;
+    width:100px;
+}
+img{
+    opacity: 0;
+    height: 100px;
+    width: 100px;
+}
+.link-header{
+    border: 3px solid white;
+    font-size: 30pxpx;
+    
+}
+
